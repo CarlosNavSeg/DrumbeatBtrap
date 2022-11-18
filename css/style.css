@@ -1,0 +1,98 @@
+.list ul li {
+    border-radius: 35px 35px 0% 0%/35px 35px 0% 0%;
+    margin-bottom: -0.5em;
+}
+
+hr {
+    border: none;
+    height: 3px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+
+h1 {
+    color: skyblue
+}
+
+.bigBlueButton {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(37, 157, 255);
+}
+
+.bigBlueButton button {
+    width: 100%;
+    height: 80px;
+    font-size: xx-large;
+}
+
+.bigBlueButton p {
+    margin-top: 10px;
+}
+
+.grayTextSection {
+    background-color: rgb(211, 211, 211);
+}
+
+.grayTextSection p {
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.yellowSection {
+    background-color: rgb(245, 245, 192);
+}
+
+.yellowSection h2 {
+    color: red;
+    margin-left: 10px;
+}
+
+.yellowSection p {
+    margin-left: 10px;
+}
+
+#secondTextSection {
+    margin-top: -6rem;
+}
+
+    .boxcolor1 {
+        height:170px;
+        width: 240px;
+        background-color: rgb(236, 140, 140);
+    }
+
+    .boxcolor2 {
+        height:170px;
+        width: 240px;
+        background-color: rgb(146, 192, 76);
+    }
+    
+    .boxcolor3 {
+        height:170px;
+        width: 240px;
+        background-color: rgb(255, 255, 158);
+    }
+    .boxcolor4 {
+        height:170px;
+        width: 240px;
+        background-color: rgb(49, 170, 170);
+    }
+
+    .boxcolor1 p {
+        margin-left: 1.5em;
+        margin-top: -0.6em;
+    }
+    .boxcolor2 p {
+        margin-left: 1.5em;
+        margin-top: -0.6em;
+    }
+    .boxcolor3 p {
+        margin-left: 1.5em;
+        margin-top: -0.6em;
+    }
+    .boxcolor4 p {
+        margin-left: 1.5em;
+        margin-top: -0.6em;
+    }
